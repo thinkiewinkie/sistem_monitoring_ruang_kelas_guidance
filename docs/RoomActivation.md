@@ -15,19 +15,19 @@ Aktivasi ruangan pada sistem bertujuan agar **perangkat monitoring fisik** dapat
   2. Klik tombol opsi atau ikon titik tiga **( ⋮ )** yang terletak pada baris ruangan tersebut.
   3. Setelah popup opsi muncul, tekan pada **Rincian**, dan Anda akan diarahkan pada halaman rincian ruangan yang telah dipilih.
 
-  <img src="https://raw.githubusercontent.com/thinkiewinkie/sistem_monitoring_ruang_kelas_guidance/main/assets/images/activation_1.png" alt="room_activation_step_1" loading="lazy" width="360px" />
+     ![activation step 1](https://raw.githubusercontent.com/thinkiewinkie/sistem_monitoring_ruang_kelas_guidance/main/assets/images/activation_1.png)
 
 - **Aktivasi ruangan:**
 
   Setelah masuk kedalam rincian ruangan, anda akan dihadapkan dengan antarmuka yang menampilkan informasi ruangan meliputi nama ruangan, fungsi utama, status, dan perangkat rfid serta informasi tambahan seperti lokasi ruangan. **Perhatikan pada gambar dibawah yang ditandai dengan kotak biru bagian Status dan Perangkat RFID**, ini adalah informasi penting yang menjadi parameter apakah ruangan telah diaktivasi atau belum. Jika pada rincian tertulis dengan status **TIDAK DIKETAHUI** dan juga perangkat RFID **BELUM DIAKTIVASI**, maka Anda dapat memulai aktivasi perangkat dengan menekan tombol **AKTIVASI**.
 
-  <img src="https://raw.githubusercontent.com/thinkiewinkie/sistem_monitoring_ruang_kelas_guidance/main/assets/images/activation_2.png" alt="room_activation_step_2" loading="lazy" width="360px" />
+  ![activation step 2](https://raw.githubusercontent.com/thinkiewinkie/sistem_monitoring_ruang_kelas_guidance/main/assets/images/activation_2.png)
 
   Setelah anda menekan tombol **AKTIVASI**, tunggu hingga sistem selesai melakukan aktivasi ruangan dan terjadi perubahan pada status dan perangkat RFID ruangan. Secara default, status ruangan akan berubah menjadi **TERSEDIA** dan perangkat RFID menjadi **SUDAH DIAKTIVASI**.
 
   Pada halaman rincian ruangan yang sudah diaktivasi, akan menampilkan informasi RFID dan juga kontrol jalur listrik dalam ruangan.
 
-  <img src="https://raw.githubusercontent.com/thinkiewinkie/sistem_monitoring_ruang_kelas_guidance/main/assets/images/activation_4.png" alt="room_activation_step_4" loading="lazy" width="360px" />
+  ![activation step 4](https://raw.githubusercontent.com/thinkiewinkie/sistem_monitoring_ruang_kelas_guidance/main/assets/images/activation_4.png)
 
   Apabila perangkat gagal dihubungi oleh sistem pada langkah sebelumnya, langkah selanjutnya adalah melakukan aktivasi perangkat secara fisik. Prosedur aktivasi fisik ini akan dijelaskan dalam **Aktivasi perangkat fisik** dalam dokumen ini.
 
@@ -35,8 +35,7 @@ Aktivasi ruangan pada sistem bertujuan agar **perangkat monitoring fisik** dapat
 
 Setelah melakukan proses aktivasi, terkadang Anda akan menemui beberapa permasalahan dimana sistem gagal menghubungi perangkat yang berakibat pada keterbatasan dalam akses kontrol listrik dan informasi perangkat monitoring fisik seperti yang tampak pada gambar berikut:
 
-<img src="https://raw.githubusercontent.com/thinkiewinkie/sistem_monitoring_ruang_kelas_guidance/main/assets/images/activation_3.png"
-alt="room_activation_step_3" loading="lazy" width="360px" />
+![activation step 3](https://raw.githubusercontent.com/thinkiewinkie/sistem_monitoring_ruang_kelas_guidance/main/assets/images/activation_3.png)
 
 Permasalahan ini dapat disebabkan oleh beberapa faktor, antara lain:
 
