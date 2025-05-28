@@ -1,0 +1,2 @@
+# sistem_monitoring_ruang_kelas_guidance
+Repositori dokumen panduan penggunaan peralatan sistem monitoring ruang kelas
